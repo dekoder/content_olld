@@ -12,7 +12,7 @@ future==0.17.0
 idna==2.7
 ipaddress==1.0.22
 isodate==0.6.0
-lxml==4.2.5
+lxml==4.6.2
 ntlm-auth==1.2.0
 pycparser==2.19
 Pygments==2.2.0
