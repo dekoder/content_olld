@@ -15,7 +15,7 @@ isodate==0.6.0
 lxml==4.2.5
 ntlm-auth==1.2.0
 pycparser==2.19
-Pygments==2.2.0
+Pygments==2.7.4
 python-dateutil==2.7.5
 pytz==2018.7
 requests==2.20.0
